@@ -1,0 +1,11 @@
+###### Requirements without Version Specifiers ######
+jupyter
+numpy
+pandas
+seaborn
+matplotlib
+scipy
+ipython
+os
+re
+scikit-learn
