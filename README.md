@@ -6,7 +6,7 @@ The provided notebook reads in the train dataset which consists of passenger inf
 
 ## Getting Started
 ### Dependencies
-* Ensure intended browser of use is updated to most recent version. Either Google Chrome or Mozilla Firefox is preferred.
+* Ensure intended browser of use is updated to most recent version. Google Chrome or Mozilla Firefox is preferred.
 * Python version is the latest installed.
 * pip version is the latest installed.
 ```
