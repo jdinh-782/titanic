@@ -31,7 +31,7 @@ Assuming all packages and dependencies are installed correctly, the code blocks 
 For more information about Jupyter, please visit https://jupyter.org.
 
 ## Help
-For any concerns, feel free to reach out to me by [email](jdinh782@gmail.com).
+For any concerns, feel free to reach out to me by [email](mailto:dinhjd@uci.edu?subject=[GitHub]%20Source%20Han%20Sans).
 
 ## Authors and Contributors
 [Johnson Dinh](https://www.linkedin.com/in/johnson-dinh/) <br>
